@@ -1,5 +1,5 @@
 ### Hi there, I'm Jaeuk 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeUkas&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeUkas&show_icons=true&hide=issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Online Judge
 * BOJ :  [anytime96](https://www.acmicpc.net/user/anytime96)
