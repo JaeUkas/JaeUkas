@@ -2,8 +2,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeUkas&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Online Judge
-* BOJ:
-  * solvedac:
+* BOJ :  [BOJ](https://www.acmicpc.net/user/anytime96)
+  * solvedac : [solvedac](https://solved.ac/profile/anytime96)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=anytime96)](https://solved.ac/anytime96)
 
