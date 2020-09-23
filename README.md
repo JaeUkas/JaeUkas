@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeUkas&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
-anytime96](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={anytime96})](https://solved.ac/{anytime96})
 
 <!--
 **JaeUkas/JaeUkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
